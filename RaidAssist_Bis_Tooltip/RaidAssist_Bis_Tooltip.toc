@@ -1,0 +1,5 @@
+## Interface: 30300
+## Title: RaidAssist BiS Tooltip
+## Notes: Adds a BiS indication based on the RaidAssist BiS list config
+## Author: Query
+core.lua
